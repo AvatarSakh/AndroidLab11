@@ -49,7 +49,7 @@ Kotlin - это высокоэффективный современный язы
 
 <h1 align="center">Решение</h2>
 
-![img1](/1.png)
+![img1](/2.png)
 
 <h2 align="center">MainActivity</h2>
 
